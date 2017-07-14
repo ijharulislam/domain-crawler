@@ -1,0 +1,4 @@
+Domain Name,Found Object,URL,Pattern,Found
+https://allthingsblogging.com/,/wp-content/themes/onepress/assets/css/../fonts/fontawesome-webfont.eot?v=4.7.0);src:url(//allthingsblogging.com/wp-content/themes/onepress/assets/css/../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0),https://allthingsblogging.com/,"/wp-content/themes/[^\r\n""\' ]+",True
+https://www.seologs.com/,/wp-content/themes/seologs/library/css/style.css,https://www.seologs.com/,"/wp-content/themes/[^\r\n""\' ]+",True
+http://badijones.com/,/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1,http://badijones.com/,"/wp-content/themes/[^\r\n""\' ]+",True
